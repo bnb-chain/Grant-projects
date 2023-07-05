@@ -1,2 +1,2 @@
 # Grant-projects
-Binance Smart Chain development grants program
+BNB Smart Chain development grants program
